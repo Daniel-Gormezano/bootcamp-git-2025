@@ -7,7 +7,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:** Daniel Evan Gormezano
 
-**Hobbies:**
+**Hobbies:** Reality Love TV (Love Island + any Netflix show), soccer, sitting across from Rahul 
 
 ## Section 1: Your First Commit
 
